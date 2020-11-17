@@ -8,6 +8,7 @@ public class BirinciGun {
 		System.out.println("21:04 2. gun, Github.com");
 		System.out.println("21:23 2. gun, github.com");
 		System.out.println("burada conflict beklemiyorum");
+		System.out.println("Yepyeni bir satir git hub da");
 
 		
 
