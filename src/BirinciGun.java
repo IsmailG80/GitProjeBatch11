@@ -9,7 +9,13 @@ public class BirinciGun {
 		System.out.println("21:23 2. gun, github.com");
 		System.out.println("burada conflict beklemiyorum");
 		System.out.println("Yepyeni bir satir git hub da");
+
 		System.out.println("feature");
+
+		System.out.println("20:26- feature branch");
+		System.out.println("feature ekleme");
+		System.out.println("Master ekleme");
+
 
 		
 
