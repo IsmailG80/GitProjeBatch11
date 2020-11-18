@@ -11,6 +11,11 @@ public class BirinciGun {
 		System.out.println("Yepyeni bir satir git hub da");
 		System.out.println("20:26- feature branch");
 		System.out.println("feature ekleme");
+		System.out.println("feature");
+		System.out.println("20:26- feature branch");
+		System.out.println("feature ekleme");
+		System.out.println("Master ekleme");
+
 
 		
 
